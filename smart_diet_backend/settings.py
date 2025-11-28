@@ -41,11 +41,15 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+<<<<<<< HEAD
     'users', 
     'diet', 
     'meals',
     'recommendations', 
     'tracking',
+=======
+    'users',
+>>>>>>> 9e353c65a72802a4a256adfe7b55ebb7239a86ee
 ]
 
 MIDDLEWARE = [
